@@ -24,7 +24,7 @@ Word Frequency Analysis & Visualization (WordCloud, Matplotlib)
 
 End-to-End NLP pipeline examples
 
-Installations:
+⚙️ Installation
 
 pip install -r requirements.txt
 
