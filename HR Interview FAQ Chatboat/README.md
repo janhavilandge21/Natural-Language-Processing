@@ -1,4 +1,4 @@
-🤖 HR Interview FAQ Chatbot
+# 🤖 HR Interview FAQ Chatbot
 
 An AI-powered FAQ Chatbot designed to assist job seekers with HR Interview preparation. The chatbot provides instant answers to frequently asked interview questions, built using Natural Language Processing (NLP) and Machine Learning techniques.
 
